@@ -1,0 +1,21 @@
+.main {
+  height: 220px;
+  width: 210px;
+}
+
+.img {
+  width: 100%;
+  height: 70%;
+}
+.sub {
+  height: 30%;
+  width: 100%;
+}
+.details {
+  margin-top: 0px;
+  margin-bottom: 1px;
+  text-align: center;
+}
+#productName {
+  font-weight: 800;
+}
