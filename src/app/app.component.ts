@@ -6,13 +6,15 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  products = [
-    {
-      id: 1,
-      productImage:
-        'https://m.media-amazon.com/images/I/81fBxRm5c0L._UL1500_.jpg',
-      productName: "Symactive Men's Running Shoe",
-      Discription: 'something',
-    },
-  ];
+  //   products = [
+  //     {
+  //       id: 1,
+  //       productImage:
+  //         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIrEZJZ_56BfvYCZ1XNGsMI2bFiPoIMTg55w&usqp=CAU',
+  //       productName: "Symactive Men's Running Shoe",
+  //       Discription: 'something',
+  //       productprice: '799 Rs',
+  //     },
+  //   ];
+  //
 }
